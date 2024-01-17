@@ -25,7 +25,6 @@ C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Toml
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Mono.Cecil.Pdb.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Mono.Cecil.Mdb.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Mono.Cecil.Rocks.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.UI.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.TextRenderingModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.AnimationModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.AudioModule.dll
@@ -78,8 +77,8 @@ C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Phot
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.UIElementsNativeModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.JSONSerializeModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\MelonLoader.xml
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Camera Enabler.csproj.AssemblyReference.cache
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Camera Enabler.csproj.CoreCompileInputs.cache
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Camera Enabler.csproj.CopyComplete
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIVCameraEnabler.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIVCameraEnabler.pdb
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Camera Enabler.csproj.AssemblyReference.cache

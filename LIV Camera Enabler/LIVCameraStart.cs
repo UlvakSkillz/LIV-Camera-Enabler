@@ -1,7 +1,6 @@
 ﻿using MelonLoader;
 using UnityEngine;
-using RUMBLE.Managers;
-using RUMBLE.Players.Subsystems;
+using RUMBLE.Utilities;
 
 namespace LIV_Camera_Enabler
 {
@@ -38,7 +37,7 @@ namespace LIV_Camera_Enabler
                     {
                         try
                         {
-                            playerLIV = GameObject.Find("Game Instance/Initializable/PlayerManager").gameObject.GetComponent<PlayerManager>().localPlayer.Controller.transform.GetChild(8).gameObject.GetComponent<PlayerLIV>().liv;
+                            playerLIV = GameObject.Find("Game Instance/Initializable/RecordingCamera").GetComponent<RecordingCamera>().GetActiveLIVComponent().liv;
                             playerLIV.enabled = true;
                             livInitialized = true;
                             MelonLogger.Msg("F10 Menu Camera Enabled");
