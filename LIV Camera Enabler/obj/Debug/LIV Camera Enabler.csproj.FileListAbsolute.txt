@@ -58,11 +58,10 @@ C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Unit
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\RUMBLE.Platform.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Iced.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.SharedInternalsModule.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppSystem.Core.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\WebSocketDotNet.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.Physics2DModule.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppSystem.Core.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\WebSocketDotNet.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppMono.Security.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppSystem.Configuration.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppSystem.Xml.dll
@@ -74,8 +73,6 @@ C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2C
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.SubsystemsModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.InputModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\PhotonVoice.API.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.UIElementsNativeModule.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.JSONSerializeModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\MelonLoader.xml
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Camera Enabler.csproj.CoreCompileInputs.cache
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Camera Enabler.csproj.CopyComplete

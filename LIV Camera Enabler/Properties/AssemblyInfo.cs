@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using MelonLoader;
 using LIV_Camera_Enabler; // The namespace of your mod class
 // ...
-[assembly: MelonInfo(typeof(LIVCameraStart), "LIV Camera Enabler", "1.0.1", "UlvakSkillz")]
+[assembly: MelonInfo(typeof(LIVCameraStart), "LIV Camera Enabler", "1.0.6", "UlvakSkillz")]
 [assembly: MelonGame("Buckethead Entertainment", "RUMBLE")]
 
 // General Information about an assembly is controlled through the following

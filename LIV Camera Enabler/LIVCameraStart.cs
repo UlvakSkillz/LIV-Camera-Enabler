@@ -1,6 +1,8 @@
 ﻿using MelonLoader;
 using UnityEngine;
 using RUMBLE.Utilities;
+using System.Diagnostics;
+using RUMBLE.Serialization;
 
 namespace LIV_Camera_Enabler
 {
@@ -9,8 +11,7 @@ namespace LIV_Camera_Enabler
         //variables
         private string currentScene = "";
         private bool sceneChanged = false;
-        private bool livInitialized = false;
-        private LIV.SDK.Unity.LIV playerLIV;
+        private RecordingCamera playerLIV;
 
         //initializes things
         public override void OnInitializeMelon()
@@ -24,23 +25,23 @@ namespace LIV_Camera_Enabler
         }
 
         //run every update
-        public override void OnUpdate()
+        public override void OnFixedUpdate()
         {
             //normal updates
-            base.OnUpdate();
+            base.OnFixedUpdate();
             if (sceneChanged)
             {
-                livInitialized = false;
                 if ((currentScene != "") && (currentScene != "Loader"))
                 {
-                    if (!livInitialized)
+                    if (IsProcessRunning("capture"))
                     {
                         try
                         {
-                            playerLIV = GameObject.Find("Game Instance/Initializable/RecordingCamera").GetComponent<RecordingCamera>().GetActiveLIVComponent().liv;
-                            playerLIV.enabled = true;
-                            livInitialized = true;
-                            MelonLogger.Msg("F10 Menu Camera Enabled");
+                            playerLIV = GameObject.Find("Game Instance/Initializable/RecordingCamera").GetComponent<RecordingCamera>();
+                            playerLIV.OnModernRecordingCameraEnabledChanged(true);
+                            playerLIV.SaveConfiguration();
+                            sceneChanged = false;
+                            MelonLogger.Msg("F10 Camera Enabled");
                         }
                         catch
                         {
@@ -49,11 +50,9 @@ namespace LIV_Camera_Enabler
                     }
                     else
                     {
-                        playerLIV.enabled = true;
-                        MelonLogger.Msg("F10 Menu Camera Enabled");
+                        sceneChanged = false;
                     }
                 }
-                sceneChanged = false;
             }
         }
 
@@ -64,6 +63,13 @@ namespace LIV_Camera_Enabler
             //update current scene
             currentScene = sceneName;
             sceneChanged = true;
+        }
+
+        //returns true/false if a process is running
+        static bool IsProcessRunning(string processName)
+        {
+            //returns true if 1+ processes of the name was found
+            return Process.GetProcessesByName(processName).Length > 0;
         }
     }
 }
