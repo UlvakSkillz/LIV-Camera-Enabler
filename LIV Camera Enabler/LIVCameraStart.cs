@@ -1,8 +1,6 @@
 ﻿using MelonLoader;
-using UnityEngine;
 using RUMBLE.Utilities;
 using System.Diagnostics;
-using RUMBLE.Serialization;
 
 namespace LIV_Camera_Enabler
 {
@@ -13,22 +11,9 @@ namespace LIV_Camera_Enabler
         private bool sceneChanged = false;
         private RecordingCamera playerLIV;
 
-        //initializes things
-        public override void OnInitializeMelon()
-        {
-            base.OnInitializeMelon();
-        }
-
-        public override void OnLateInitializeMelon()
-        {
-            base.OnLateInitializeMelon();
-        }
-
         //run every update
         public override void OnFixedUpdate()
         {
-            //normal updates
-            base.OnFixedUpdate();
             if (sceneChanged)
             {
                 if ((currentScene != "") && (currentScene != "Loader"))
@@ -37,16 +22,12 @@ namespace LIV_Camera_Enabler
                     {
                         try
                         {
-                            playerLIV = GameObject.Find("Game Instance/Initializable/RecordingCamera").GetComponent<RecordingCamera>();
+                            playerLIV = RecordingCamera.instance;
                             playerLIV.OnModernRecordingCameraEnabledChanged(true);
                             playerLIV.SaveConfiguration();
                             sceneChanged = false;
-                            MelonLogger.Msg("F10 Camera Enabled");
                         }
-                        catch
-                        {
-                            return;
-                        }
+                        catch { return; }
                     }
                     else
                     {
