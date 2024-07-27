@@ -1,5 +1,5 @@
 ﻿using MelonLoader;
-using RUMBLE.Utilities;
+using Il2CppRUMBLE.Utilities;
 using System.Diagnostics;
 
 namespace LIV_Camera_Enabler
