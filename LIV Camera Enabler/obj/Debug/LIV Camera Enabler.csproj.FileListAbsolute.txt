@@ -1,5 +1,3 @@
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\LIVCameraEnabler.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\LIVCameraEnabler.pdb
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\0Harmony.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\MelonLoader.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.CoreModule.dll
@@ -21,9 +19,7 @@ C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Unit
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.UIModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppSystem.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.TerrainModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.PhysicsModule.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.ClothModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.UnityWebRequestModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.DirectorModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.AIModule.dll
@@ -36,9 +32,6 @@ C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Unit
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.XRModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.ParticleSystemModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Unity.InputSystem.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.SpatialTracking.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Iced.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.SharedInternalsModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.Physics2DModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppSystem.Core.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
@@ -55,9 +48,6 @@ C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Unit
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.InputModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\MelonLoader.xml
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Camera Enabler.csproj.CoreCompileInputs.cache
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Camera Enabler.csproj.CopyComplete
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIVCameraEnabler.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIVCameraEnabler.pdb
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Camera Enabler.csproj.AssemblyReference.cache
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppBucketheadEntertainment.Plugins.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppRUMBLE.Plugins.dll
@@ -70,7 +60,6 @@ C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2C
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppPlayFab.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppPhotonChat.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppSmartLocalization.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppRUMBLE.Rendering.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppPhotonVoice.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppRUMBLE.Platform.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppRUMBLE.Platform.Info.Steam.dll
@@ -85,5 +74,20 @@ C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2C
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2Cppcom.rlabrecque.steamworks.net.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\System.Text.Json.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
-C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.UIElementsNativeModule.dll
 C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppInterop.Common.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppLIV.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppInterop.Generator.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppInterop.Runtime.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Il2CppInterop.HarmonySupport.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\MonoMod.Backports.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\MonoMod.ILHelpers.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIV Came.41DEA60A.Up2Date
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\ModUI.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\LegacyCameraEnabler.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\bin\Debug\LegacyCameraEnabler.pdb
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LegacyCameraEnabler.dll
+C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LegacyCameraEnabler.pdb

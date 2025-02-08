@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\austi\\source\\repos\\LIV Camera Enabler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5C6056-F5FE-45D6-92F5-42037A30DB8F}|LIV Camera Enabler\\LIV Camera Enabler.csproj|c:\\users\\austi\\source\\repos\\liv camera enabler\\liv camera enabler\\legacycamerastart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5C6056-F5FE-45D6-92F5-42037A30DB8F}|LIV Camera Enabler\\LIV Camera Enabler.csproj|solutionrelative:liv camera enabler\\legacycamerastart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5C6056-F5FE-45D6-92F5-42037A30DB8F}|LIV Camera Enabler\\LIV Camera Enabler.csproj|C:\\Users\\austi\\source\\repos\\LIV Camera Enabler\\liv camera enabler\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5C6056-F5FE-45D6-92F5-42037A30DB8F}|LIV Camera Enabler\\LIV Camera Enabler.csproj|solutionrelative:liv camera enabler\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\austi\\source\\repos\\LIV Camera Enabler\\LIV Camera Enabler\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LIV Camera Enabler\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\austi\\source\\repos\\LIV Camera Enabler\\LIV Camera Enabler\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "LIV Camera Enabler\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:01:34.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LegacyCameraStart.cs",
+              "DocumentMoniker": "C:\\Users\\austi\\source\\repos\\LIV Camera Enabler\\LIV Camera Enabler\\LegacyCameraStart.cs",
+              "RelativeDocumentMoniker": "LIV Camera Enabler\\LegacyCameraStart.cs",
+              "ToolTip": "C:\\Users\\austi\\source\\repos\\LIV Camera Enabler\\LIV Camera Enabler\\LegacyCameraStart.cs",
+              "RelativeToolTip": "LIV Camera Enabler\\LegacyCameraStart.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:24:17.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

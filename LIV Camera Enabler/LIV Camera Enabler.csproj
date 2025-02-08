@@ -7,8 +7,8 @@
     <ProjectGuid>{CE5C6056-F5FE-45D6-92F5-42037A30DB8F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LIVCameraEnabler</RootNamespace>
-    <AssemblyName>LIVCameraEnabler</AssemblyName>
+    <RootNamespace>LegacyCameraEnabler</RootNamespace>
+    <AssemblyName>LegacyCameraEnabler</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -31,7 +31,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="LIVCameraStart.cs" />
+    <Compile Include="LegacyCameraStart.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -49,6 +49,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>F:\SteamLibrary\steamapps\common\RUMBLE\MelonLoader\net6\MelonLoader.dll</HintPath>
     </Reference>
+    <Reference Include="ModUI">
+      <HintPath>F:\SteamLibrary\steamapps\common\RUMBLE Modding dlls\ModUI.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="UnhollowerBaseLib, Version=0.4.18.0, Culture=neutral, PublicKeyToken=null" />
     <Reference Include="UnityEngine">
@@ -61,6 +64,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>xcopy "C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LIVCameraEnabler.dll" "F:\SteamLibrary\steamapps\common\RUMBLE\Mods" /Y</PostBuildEvent>
+    <PostBuildEvent>xcopy "C:\Users\austi\source\repos\LIV Camera Enabler\LIV Camera Enabler\obj\Debug\LegacyCameraEnabler.dll" "F:\SteamLibrary\steamapps\common\RUMBLE\Mods" /Y</PostBuildEvent>
   </PropertyGroup>
 </Project>

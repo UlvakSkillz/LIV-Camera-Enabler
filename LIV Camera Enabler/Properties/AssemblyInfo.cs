@@ -2,13 +2,13 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using MelonLoader;
-using LIV_Camera_Enabler; // The namespace of your mod class
+using Legacy_Camera_Enabler; // The namespace of your mod class
 // ...
-[assembly: MelonInfo(typeof(LIVCameraStart), "LIV Camera Enabler", "2.0.1", "UlvakSkillz")]
+[assembly: MelonInfo(typeof(LegacyCameraStart), ModBuildInfo.Name, ModBuildInfo.Version, "UlvakSkillz")]
 [assembly: MelonGame("Buckethead Entertainment", "RUMBLE")]
 [assembly: MelonColor(255, 195, 0, 255)]
 [assembly: MelonAuthorColor(255, 195, 0, 255)]
-[assembly: VerifyLoaderVersion(0, 6, 2, true)]
+[assembly: VerifyLoaderVersion(0, 6, 6, true)]
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
